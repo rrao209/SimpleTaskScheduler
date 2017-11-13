@@ -1,0 +1,27 @@
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
+
+*.iml
+*.current
+
+log/
+logs/
+*.log
+
+## Directory-based project format:
+.idea/
+
+#ignore all mvn created target folders and all eclipse project files
+target/
+dependency-reduced-pom.xml
+.project
+.classpath
+.project
+.settings/
+.springBeans
+.metadata
+#OS X files
+.DS_Store
+#GWT created
+.gwt
+*.class
+test-output/
