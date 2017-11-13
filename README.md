@@ -22,7 +22,7 @@ mvn exec:java
 ### Design
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/rrao209/SimpleTaskScheduler/blob/master/design.png">
   <br/>
 </p>
 
