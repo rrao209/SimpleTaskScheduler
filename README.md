@@ -5,6 +5,7 @@ Task scheduler to schedule jobs on a single Node
 - [Setup](#setup)
 - [Installation](#installation)
 - [run](#run)
+- [design](#design)
 
 # Setup
 ```
@@ -19,7 +20,9 @@ mvn clean install
 # Run
 mvn exec:java
 
-### Design
+### Design Diagram
+
+# Design
 
 <p align="center">
   <img src="https://github.com/rrao209/SimpleTaskScheduler/blob/master/design.png">
