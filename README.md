@@ -5,7 +5,7 @@ Task scheduler to schedule jobs on a single Node
 - [Setup](#setup)
 - [Installation](#installation)
 - [run](#run)
-- [design](#design)
+- [System design](#design)
 
 # Setup
 ```
@@ -19,8 +19,6 @@ mvn clean install
 
 # Run
 mvn exec:java
-
-### Design Diagram
 
 # Design
 
